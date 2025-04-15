@@ -1,55 +1,54 @@
 {
-    "conditions": [
-      {
-        "name": "Thyroid",
-        "imagesrc":"thyroid.jpg",
-        "symptoms": [
-          "Fatigue",
-          "Weight gain or loss",
-          "Dry skin",
-          "Muscle weakness",
-          "Irregular menstrual periods"
-        ],
-        "prevention": [
-          "Eat a balanced diet",
-          "Exercise regularly",
-          "Get regular check-ups"
-        ],
-        "treatment": "Medication like levothyroxine may be prescribed by a doctor."
-      },
-      {
-        "name": "Diabetes",
-        "imagesrc":"diabetes.jpg",
-        "symptoms": [
-          "Frequent urination",
-          "Increased thirst",
-          "Blurry vision",
-          "Fatigue",
-          "Slow healing of cuts or sores"
-        ],
-        "prevention": [
-          "Maintain a healthy weight",
-          "Follow a balanced diet",
-          "Regular exercise"
-        ],
-        "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
-      },
-      {
-        "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
-        "symptoms": [
-          "Headaches",
-          "Shortness of breath",
-          "Chest pain",
-          "Dizziness",
-          "Blurred or double vision"
-        ],
-        "prevention": [
-          "Reduce salt intake",
-          "Exercise regularly",
-          "Maintain a healthy weight"
-        ],
-        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
-      }
+    "conditions": [{
+            "name": "Thyroid",
+            "imagesrc": "https://images.everydayhealth.com/images/seo-graphic-content-initiative/eh-how-hyperthyroidism-affects-the-body-seo-graphic-gs.png?w=1110",
+            "symptoms": [
+                "Fatigue",
+                "Weight gain or loss",
+                "Dry skin",
+                "Muscle weakness",
+                "Irregular menstrual periods"
+            ],
+            "prevention": [
+                "Eat a balanced diet",
+                "Exercise regularly",
+                "Get regular check-ups"
+            ],
+            "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+        },
+        {
+            "name": "Diabetes",
+            "imagesrc": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/7104-diabetes-symptoms",
+            "symptoms": [
+                "Frequent urination",
+                "Increased thirst",
+                "Blurry vision",
+                "Fatigue",
+                "Slow healing of cuts or sores"
+            ],
+            "prevention": [
+                "Maintain a healthy weight",
+                "Follow a balanced diet",
+                "Regular exercise"
+            ],
+            "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+        },
+        {
+            "name": "High Blood Pressure",
+            "imagesrc": "https://www.practostatic.com/health-wiki/images/99cbce72d9d9e4f916fd427133c3fc6c.jpg",
+            "symptoms": [
+                "Headaches",
+                "Shortness of breath",
+                "Chest pain",
+                "Dizziness",
+                "Blurred or double vision"
+            ],
+            "prevention": [
+                "Reduce salt intake",
+                "Exercise regularly",
+                "Maintain a healthy weight"
+            ],
+            "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+        }
     ]
-  }
+}
